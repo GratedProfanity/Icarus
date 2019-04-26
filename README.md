@@ -1,4 +1,4 @@
-# Icarus
+# Flowhooks
 Make an excluded folder with the exe and dll
 
 Open csgo and open the exe
